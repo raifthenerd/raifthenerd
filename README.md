@@ -1,16 +1,20 @@
-### Hi there 👋
+### Seokjin Han (한석진)
 
-<!--
-**raifthenerd/raifthenerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Work Experience 🧑‍💻
 
-Here are some ideas to get you started:
+- AI scientist at [Standigm Inc.](https://www.standigm.com/) 🤖🧑‍💻💊🧬
+  - Interpretable target prediction models utilizing a large-scale graph
+- M.Sc. in Statistics 🧑‍🎓📊
+  - Supervisor: [Jaeyong Lee](https://jylee749.wordpress.com/) @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Interests 🤔
+
+- Mathematical foundations of ML/AI/Statistics
+- ML/AI/Statistics on non-Euclidean data, *e.g.*, large-scale graphs
+- Other programming languages, *e.g.*, [Rust](https://www.rust-lang.org/), [Julia](https://julialang.org/)
+
+#### Contact Info 📬
+
+- E-mail: see my profile
+- Blog: https://blog.raifthenerd.com
+- LinkedIn: https://www.linkedin.com/in/raifthenerd/
