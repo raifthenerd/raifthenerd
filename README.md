@@ -1,5 +1,7 @@
 ### Seokjin Han (한석진)
 
+[CV](cv.pdf)
+
 #### Work Experience 🧑‍💻
 
 - AI scientist at [Standigm Inc.](https://www.standigm.com/) 🤖🧑‍💻💊🧬
