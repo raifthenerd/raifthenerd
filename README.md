@@ -4,10 +4,21 @@
 
 #### Work Experience 🧑‍💻
 
-- AI scientist at [Standigm Inc.](https://www.standigm.com/) 🤖🧑‍💻💊🧬
+- AI scientist @ [Standigm Inc.](https://www.standigm.com/) 🤖⚙️💊🧬 (current position)
   - Interpretable target prediction models utilizing a large-scale graph
-- M.Sc. in Statistics 🧑‍🎓📊
+- Research intern @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
+- Machine learning engineer @ [PRND Corp.](https://prnd.co.kr/)
+
+#### Education 🧑‍🎓
+
+- M.Sc. in [Statistics](http://stat.snu.ac.kr/eng/) 📊
+  @ Seoul National University
   - Supervisor: [Jaeyong Lee](https://jylee749.wordpress.com/) @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
+- B.Sc. in [Industrial Engineering](http://ie.snu.ac.kr/en) 🎛 & [Statistics](http://stat.snu.ac.kr/eng/) 📊
+  @ Seoul National University
+  - Minor in [Computer Science and Engineering](https://cse.snu.ac.kr/en) 🖥
+- High school diploma 🧑‍🏫
+  @ [Seoul Science High School](http://en.sshs.hs.kr/)
 
 #### Current Interests 🤔
 
