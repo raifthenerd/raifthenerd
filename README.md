@@ -25,6 +25,7 @@
 - Mathematical foundations of ML/AI/Statistics
 - ML/AI/Statistics on non-Euclidean data, *e.g.*, large-scale graphs
 - Other programming languages, *e.g.*, [Rust](https://www.rust-lang.org/), [Julia](https://julialang.org/)
+- Electronic music and digital art festivals, *e.g.*, [MUTEK](https://mutek.org/), [Algorave](https://algorave.com/)
 
 #### Contact Info 📬
 
