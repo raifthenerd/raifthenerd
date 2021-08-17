@@ -11,10 +11,10 @@
 
 #### Education 🧑‍🎓
 
-- M.Sc. in [Statistics](http://stat.snu.ac.kr/eng/) 📊
+- M.Sc. in [Statistics](http://stat.snu.ac.kr/en/) 📊
   @ Seoul National University
   - Supervisor: [Jaeyong Lee](https://jylee749.wordpress.com/) @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
-- B.Sc. in [Industrial Engineering](http://ie.snu.ac.kr/en) 🎛 & [Statistics](http://stat.snu.ac.kr/eng/) 📊
+- B.Sc. in [Industrial Engineering](http://ie.snu.ac.kr/en) 🎛 & [Statistics](http://stat.snu.ac.kr/en/) 📊
   @ Seoul National University
   - Minor in [Computer Science and Engineering](https://cse.snu.ac.kr/en) 🖥
 - High school diploma 🧑‍🏫
