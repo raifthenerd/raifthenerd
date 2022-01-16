@@ -2,15 +2,16 @@
 % !TEX TS-program = lualatex
 
 \PassOptionsToPackage{pdfencoding=auto}{hyperref}
-\documentclass[10pt,a4paper,roman]{moderncv}
-\moderncvstyle{banking}\moderncvcolor{black}\nopagenumbers
-\usepackage[scale=0.85]{geometry}\recomputelengths
+\documentclass[a4paper,10pt,nolroman]{moderncv}
+\moderncvtheme[black]{banking}\nopagenumbers
+\usepackage[scale=0.8]{geometry}\recomputelengths
 
-\usepackage{microtype}
-\DisableLigatures{encoding=*,family=tt*}
-\usepackage[largesc,theoremfont]{newtxtext}
+\usepackage{microtype,newtx}\DisableLigatures{encoding=*,family=tt*}
 
 \name{Seokjin}{Han}\title{R\'esum\'e}
+\homepage{blog.raifthenerd.com}
+\social[linkedin]{raifthenerd}
+\social[github]{raifthenerd}
 
 \begin{document}
 \makecvtitle%
@@ -30,7 +31,7 @@ Thesis: \emph{De Novo} Drug Design Using Deep Generative Models}
 \cventry{Fall 2017}{Teaching Assistant}{SNU 326.413 (Data Mining Methods and Lab.)}{}{}{}
 \section{Publications}
 \subsection{Preprint}
-\cvlistitem{\textbf{Seokjin Han}, So Jeong Yun, Hee Jung Koo$^{\ast}$ and Tae Yong Kim$^{\ast}$ (2021)
+\cvlistitem{\textbf{Seokjin Han}, So Jeong Yun, Hee Jung Koo$^{\ast}$ and Tae Yong Kim$^{\ast}$ (2022)
   PWN:\ Enhanced Random Walk on Warped Network for Disease-target Prioritization. \emph{Preprint.}}
 % \subsection{Published}
 \section{Patents}
@@ -47,6 +48,6 @@ Thesis: \emph{De Novo} Drug Design Using Deep Generative Models}
 \cventry{Nov 18, 2016}{Engineer Information Processing}{Human Resources Development Service of Korea}{}{}{}
 \section{Languages}
 \cvdoubleitem{English}{Professional working proficiency.}{Korean}{Native proficiency.}
-\cvdoubleitem{Python}{8+ years of experience.}{R}{6+ years of experience.}
-\cvdoubleitem{Julia}{1+ years of experience.}{Rust}{1+ years of experience.}
+\cvdoubleitem{Python}{9+ years of experience.}{R}{7+ years of experience.}
+\cvdoubleitem{Rust}{2+ years of experience.}{Julia}{1+ years of experience.}
 \end{document}
