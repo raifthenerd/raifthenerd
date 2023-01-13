@@ -5,7 +5,7 @@
 #### Work Experience 🧑‍💻
 
 - AI scientist @ [Standigm Inc.](https://www.standigm.com/) 🤖⚙️💊🧬 (current position)
-  - Interpretable target prediction models utilizing a large-scale graph
+  - Develop target prediction models on various types of bio data
 - Research intern @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
 - Machine learning engineer @ [PRND Corp.](https://prnd.co.kr/)
 
