@@ -1,5 +1,7 @@
 ### Seokjin Han (한석진)
 
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_latte&line1=julia%2Cjulia%2C9558B2%3Brust%2Crust%2C000000%3Bpython%2Cpython%2C3776AB%3Br%2Cr%2C276DC3&line2=julia%2Cflux.jl%2C9558B2%3Bpytorch%2Cpytorch%2CEE4C2C%3Bgit%2Cgit%2CF05032%3Bdocker%2Cdocker%2C2496ED)
+
 [CV](cv.pdf)
 
 #### Work Experience 🧑‍💻
@@ -19,13 +21,6 @@
   - Minor in [Computer Science and Engineering](https://cse.snu.ac.kr/en) 🖥
 - High school diploma 🧑‍🏫
   @ [Seoul Science High School](http://en.sshs.hs.kr/)
-
-#### Current Interests 🤔
-
-- Mathematical foundations of ML/AI/Statistics
-- ML/AI/Statistics on non-Euclidean data, *e.g.*, large-scale graphs
-- Other programming languages, *e.g.*, [Rust](https://www.rust-lang.org/), [Julia](https://julialang.org/)
-- Electronic music and digital art festivals, *e.g.*, [MUTEK](https://mutek.org/), [Algorave](https://algorave.com/)
 
 #### Contact Info 📬
 
