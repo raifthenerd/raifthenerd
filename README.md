@@ -1,8 +1,12 @@
 ### Seokjin Han (한석진)
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_latte&line1=julia%2Cjulia%2C9558B2%3Brust%2Crust%2C000000%3Bpython%2Cpython%2C3776AB%3Br%2Cr%2C276DC3&line2=julia%2Cflux.jl%2C9558B2%3Bpytorch%2Cpytorch%2CEE4C2C%3Bgit%2Cgit%2CF05032%3Bdocker%2Cdocker%2C2496ED)
-
 [CV](cv.pdf)
+
+#### Tech Stack 💻
+
+- Programming Languages: ![Julia](https://img.shields.io/badge/Julia-white?logo=julia&logoColor=9558B2) ![Rust](https://img.shields.io/badge/Rust-white?logo=rust&logoColor=000000) ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=) ![R](https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3)
+- ML/AI Frameworks: ![Flux.jl](https://img.shields.io/badge/Flux.jl-white?logo=julia&logoColor=9558B2) ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C)
+- Misc: ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED)
 
 #### Work Experience 🧑‍💻
 
