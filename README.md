@@ -25,5 +25,5 @@
 #### Contact Info 📬
 
 - E-mail: see my profile
-- Blog: https://blog.raifthenerd.com
-- LinkedIn: https://www.linkedin.com/in/raifthenerd/
+- Blog: <https://blog.raifthenerd.com>
+- LinkedIn: <https://www.linkedin.com/in/raifthenerd/>
