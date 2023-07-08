@@ -4,9 +4,26 @@
 
 #### Tech Stack 💻
 
-- Programming Languages: ![Julia](https://img.shields.io/badge/Julia-white?logo=julia&logoColor=9558B2) ![Rust](https://img.shields.io/badge/Rust-white?logo=rust&logoColor=000000) ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=) ![R](https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3)
-- ML/AI Frameworks: ![Flux.jl](https://img.shields.io/badge/Flux.jl-white?logo=julia&logoColor=9558B2) ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C)
-- Misc: ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED)
+- Programming Languages:
+  [![Julia][jl]](https://julialang.org)
+  [![Rust][rs]](https://www.rust-lang.org)
+  [![Python][py]](https://www.python.org)
+  [![R][r]](https://www.r-project.org)
+- ML/AI Frameworks:
+  [![Flux.jl][flux]](https://fluxml.ai)
+  [![PyTorch][torch]](https://pytorch.org)
+- Misc:
+  [![Git][git]](https://git-scm.com/)
+  [![Docker][docker]](https://www.docker.com/)
+
+[jl]: https://img.shields.io/badge/Julia-white?logo=julia&logoColor=9558B2
+[rs]: https://img.shields.io/badge/Rust-white?logo=rust&logoColor=000000
+[py]: https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB
+[r]: https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3
+[flux]: https://img.shields.io/badge/Flux.jl-white?logo=julia&logoColor=9558B2
+[torch]: https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=EE4C2C
+[git]: https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032
+[docker]: https://img.shields.io/badge/Docker-white?logo=docker&logoColor=2496ED
 
 #### Work Experience 🧑‍💻
 
