@@ -3,10 +3,16 @@
 
 \PassOptionsToPackage{pdfencoding=auto}{hyperref}
 \documentclass[a4paper,10pt,nolroman]{moderncv}
-\moderncvtheme[black]{banking}\nopagenumbers
-\usepackage[scale=0.8]{geometry}\recomputelengths
+\moderncvtheme{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
 
-\usepackage{microtype,newtx}\DisableLigatures{encoding=*,family=tt*}
+\usepackage[scale=0.8]{geometry}
+
+\usepackage[type1]{newtxtext}
+\usepackage[T1]{fontenc}
+
+\usepackage[english]{babel}
 
 \name{Seokjin}{Han}
 \homepage{https://blog.raifthenerd.com}
@@ -22,7 +28,8 @@ Thesis: \emph{De Novo} Drug Design Using Deep Generative Models}
 \cventry{Mar 2009 --- Feb 2012}{High School Diploma}{Seoul Science High School}{Seoul, Korea}{}{}
 \section{Experience}
 \subsection{Vocational}
-\cventry{Jan 2019 --- Current}{AI Scientist}{Standigm}{Seoul, Korea}{AI-Bio Team}{Developing core models of Standigm ASK\texttrademark, the in-house platform that utilizing various types of biological data (including knowledge graphs and NGS data) with neural networks.}
+\cventry{Dec 2023 --- Current}{ML Research Scientist}{Twelve Labs}{Seoul, Korea}{ML Modeling Team}{}
+\cventry{Jan 2019 --- Dec 2023}{AI Scientist}{Standigm}{Seoul, Korea}{AI-Bio Team}{Developed core models of Standigm ASK\texttrademark, the in-house platform that utilizing various types of biological data (including knowledge graphs and NGS data) with neural networks.}
 \cventry{Dec 2015 --- Feb 2016}{Research Intern}{Bayesian Statistics Lab @ Seoul National University}{Seoul, Korea}{}{Implemented various stochastic search algorithms for variable selection in Bayesian linear models.}
 \cventry{Jul 2015 --- Aug 2015}{Machine Learning Engineer}{PRND Company}{Seoul, Korea}{}{Developed a market price prediction service for used cars using Bayesian methods.}
 \subsection{Teaching}
@@ -37,6 +44,9 @@ Thesis: \emph{De Novo} Drug Design Using Deep Generative Models}
 \closesection{}\pagebreak
 \section{Publications}
 \subsection{Paper}
+\cvlistitem{\textbf{Seokjin~Han}$^{\dag\ast}$, Ji~Eun~Lee$^{\dag}$, Seolhee~Kang, Minyoung~So, Jin~Hee, Jang~Ho~Lee, Sunghyeob~Baek, Hyungjin~Jun, Tae~Yong~Kim and Yun-Sil~Lee$^{\ast}$ (2023).
+  Standigm ASK\texttrademark: Knowledge Graph and Artificial Intelligence Platform Applied to Target Discovery in Idiopathic Pulmonary Fibrosis.
+  \emph{Submitted.}}
 \cvlistitem{\textbf{Seokjin~Han}, Jinhee~Hong, So~Jeong~Yun, Hee~Jung~Koo$^{\ast}$ and Tae~Yong~Kim$^{\ast}$ (2023).
   PWN:\ enhanced random walk on a warped network for disease target prioritization.
   \emph{BMC Bioinformatics,} \emph{24}(1). doi: \href{https://doi.org/10.1186/s12859-023-05227-x}{10.1186/s12859-023-05227-x}}

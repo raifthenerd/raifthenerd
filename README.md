@@ -5,16 +5,16 @@
 #### Tech Stack 💻
 
 - Programming Languages:
-  [![Julia][jl]](https://julialang.org)
-  [![Rust][rs]](https://www.rust-lang.org)
-  [![Python][py]](https://www.python.org)
-  [![R][r]](https://www.r-project.org)
+  ![Julia][jl]
+  ![Rust][rs]
+  ![Python][py]
+  ![R][r]
 - ML/AI Frameworks:
-  [![Flux.jl][flux]](https://fluxml.ai)
-  [![PyTorch][torch]](https://pytorch.org)
+  ![Flux.jl][flux]
+  ![PyTorch][torch]
 - Misc:
-  [![Git][git]](https://git-scm.com/)
-  [![Docker][docker]](https://www.docker.com/)
+  ![Git][git]
+  ![Docker][docker]
 
 [jl]: https://img.shields.io/badge/Julia-white?logo=julia&logoColor=9558B2
 [rs]: https://img.shields.io/badge/Rust-white?logo=rust&logoColor=000000
@@ -27,24 +27,34 @@
 
 #### Work Experience 🧑‍💻
 
-- AI scientist @ [Standigm Inc.](https://www.standigm.com/) 🤖⚙️💊🧬 (current position)
-  - Develop target prediction models on various types of bio data
-- Research intern @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
-- Machine learning engineer @ [PRND Corp.](https://prnd.co.kr/)
+- ML Research Scientist @ [Twelve Labs Inc.][twelvelabs] 🤖📹 (current position)
+- AI Scientist @ [Standigm Inc.][standigm]
+- Research Intern @ [Bayesian Statistics Lab][snubayes]
+- Machine Learning Engineer @ [PR&D Company][prnd]
 
 #### Education 🧑‍🎓
 
-- M.Sc. in [Statistics](http://stat.snu.ac.kr/en/) 📊
+- M.Sc. in [Statistics][snustat] 📊
   @ Seoul National University
-  - Supervisor: [Jaeyong Lee](https://jylee749.wordpress.com/) @ [Bayesian Statistics Lab](https://snubayes.wordpress.com/)
-- B.Sc. in [Industrial Engineering](http://ie.snu.ac.kr/en) 🎛 & [Statistics](http://stat.snu.ac.kr/en/) 📊
+  - Supervisor: Jaeyong Lee @ [Bayesian Statistics Lab][snubayes]
+- B.Sc. in [Industrial Engineering][snuie] 🎛 & [Statistics][snustat] 📊
   @ Seoul National University
-  - Minor in [Computer Science and Engineering](https://cse.snu.ac.kr/en) 🖥
-- High school diploma 🧑‍🏫
-  @ [Seoul Science High School](http://en.sshs.hs.kr/)
+  - Minor in [Computer Science and Engineering][snucse] 🖥
+- High School Diploma 🧑‍🏫
+  @ [Seoul Science High School][sshs]
 
 #### Contact Info 📬
 
 - E-mail: see my profile
 - Blog: <https://blog.raifthenerd.com>
-- LinkedIn: <https://www.linkedin.com/in/raifthenerd/>
+- LinkedIn: <https://www.linkedin.com/in/raifthenerd>
+
+[sshs]: http://en.sshs.hs.kr
+[snuie]: http://ie.snu.ac.kr/en
+[snustat]: http://stat.snu.ac.kr/en
+[snucse]: https://cse.snu.ac.kr/en
+[snubayes]: https://snubayes.wordpress.com
+
+[prnd]: https://www.prnd.co.kr
+[standigm]: https://www.standigm.com
+[twelvelabs]: https://twelvelabs.io
