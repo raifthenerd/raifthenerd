@@ -53,7 +53,7 @@
 [snuie]: http://ie.snu.ac.kr/en
 [snustat]: http://stat.snu.ac.kr/en
 [snucse]: https://cse.snu.ac.kr/en
-[snubayes]: https://snubayes.wordpress.com
+[snubayes]: https://snubayes.org
 
 [prnd]: https://www.prnd.co.kr
 [standigm]: https://www.standigm.com
