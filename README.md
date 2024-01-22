@@ -37,7 +37,7 @@
 - M.Sc. in [Statistics][snustat] 📊
   @ Seoul National University
   - Supervisor: Jaeyong Lee @ [Bayesian Statistics Lab][snubayes]
-- B.Sc. in [Industrial Engineering][snuie] 🎛 & [Statistics][snustat] 📊
+- B.Sc. in [Industrial Engineering][snuie] 🎛 & B.Sc. in [Statistics][snustat] 📊
   @ Seoul National University
   - Minor in [Computer Science and Engineering][snucse] 🖥
 - High School Diploma 🧑‍🏫
