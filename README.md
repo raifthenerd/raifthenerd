@@ -27,7 +27,7 @@
 
 #### Work Experience 🧑‍💻
 
-- ML Research Scientist @ [Twelve Labs Inc.][twelvelabs] 🤖📹 (current position)
+- ML Research Scientist @ [TwelveLabs Inc.][twelvelabs] 🤖📹 (current position)
 - AI Scientist @ [Standigm Inc.][standigm]
 - Research Intern @ [Bayesian Statistics Lab][snubayes]
 - Machine Learning Engineer @ [PR&D Company][prnd]
